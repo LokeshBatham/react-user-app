@@ -29,7 +29,7 @@ const UserList = () => {
       <h1 className="font-bold text-xl p-0 pb-4 sm:pr-6 sm:pl-6 sm:pb-0">User List</h1>
 
       {/* Search Bar */}
-      <div className="p-0 sm:p-6">
+      <div className="p-0 pb-4 sm:p-6 sm:pb-0">
         <input
           type="text"
           placeholder="Search by name or email"
